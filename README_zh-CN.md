@@ -1,10 +1,4 @@
-<h1 align="center">mengke.me 🧑‍💻</h1>
-
-<div align="center">
-
-[English](./README.md) | [繁体中文](./README_zh-TW.md) | [日本語](./README_ja.md)
-
-</div>
+<h1 align="center">lucas.me 🧑‍💻</h1>
 
 <img style="border-radius: 6px" src="./public/static/images/home_page.webp">
 
@@ -27,11 +21,7 @@
 
 ## 演示
 
-演示站：<https://mengke.me>
-
-## 如何部署一个同样的博客？
-
-> 我这里只描述基本的操作步骤。如果你是零基础或在部署过程中遇到任何问题，请发邮件给我：me@mengke.me。
+演示站：
 
 ### 1. 安装
 
@@ -58,7 +48,3 @@
 3. 运行 `npx prisma db push` 来创建 `views` 表。
 
 4. 每篇博文的阅读量会被自动统计到这个数据库中。
-
-## ☕️ 支持 Mengke
-
-<a href='https://ko-fi.com/P5P2ZV7NP' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

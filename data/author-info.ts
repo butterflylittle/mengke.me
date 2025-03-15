@@ -1,31 +1,31 @@
 export const AUTHOR_INFO = {
-  name: 'Mengke',
+  name: 'Lucas',
   description:
     'A personal space on the cloud where I document my programming journey, sharing lessons, insights, and resources for fellow developers.',
-  email: 'me@mengke.me',
+  email: '',
   identity: 'Learner | Builder',
   address: {
-    city: 'Peking, China',
+    city: 'GuangZhou, China',
     flag: 'flag-china',
     timeZone: 8,
   },
   work: {
     company: '',
     occupation: 'Front-End Engineer',
-    location: 'Peking, China',
+    location: 'Zhuhai, China',
     website: '/',
   },
   social: {
-    github: 'https://github.com/mk965',
-    x: '/',
+    github: 'https://github.com/butterflylittle',
+    x: 'https://x.com/LucasWu2025',
     facebook: '/',
     youtube: '/',
     linkedin: '/',
-    threads: 'https://www.threads.net/@_mk965',
+    threads: '/',
     instagram: '/',
-    juejin: 'https://www.juejin.cn/user/4037062430299912#/Mengke',
+    juejin: 'https://juejin.cn/user/2348212569512974',
   },
   support: {
-    kofi: 'https://ko-fi.com/mengke',
+    kofi: '/',
   },
 }

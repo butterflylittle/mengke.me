@@ -64,7 +64,7 @@ export function Header() {
                 </Link>
               )
             })}
-            <MoreLinks />
+            {/* <MoreLinks /> */}
           </div>
           <div
             data-orientation="vertical"
